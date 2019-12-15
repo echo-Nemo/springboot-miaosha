@@ -1,0 +1,1 @@
+springboot中默认初始加载页面是 index.html，所以我把商品的展示页面的名称改为了index.html
